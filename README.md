@@ -1,6 +1,6 @@
-# Easy Tensorflow Object Detection API GUI for anyone
+# Easy TensorFlow Object Detection API GUI for anyone
 Easy to use, Good looking, Highly utilized, and Light Tensorflow Tool.\
-TF-GRAF(TensorFlow with user friendly GRAphical Framework for object detection API) allows anyone, even without any previous knowledge of deep learning frameworks, to design, train and deploy machine intelligence models without coding.\
+TensorFlow with user friendly GRAphical Framework for object detection API (TF-GraF) allows anyone, even without any previous knowledge of deep learning frameworks, to design, train and deploy machine intelligence models without coding.\
 No need to Code! NO need type Command line!\
 All you need to do is download exe file and go!\
 ![picture](https://github.com/boguss1225/ObjectDetectionGUI/blob/master/screenshot/Detect_faster_rccn_inception.png)
@@ -54,20 +54,20 @@ step by step manual is available here\
 https://drive.google.com/file/d/1mZkj5jhdDJcANsP8xcHKdmlPNxeHcmXM/view?usp=sharing
 
 # Guide Video
-User guid video is available here in youtube\
+User guide video is available here in youtube\
 //(link)
 
 # Requirements and specification for developer
-* Tensorflow environment installed in Ubuntu 16.04.6 LTS
-* Anaconda environment version 4.7.11 installed to establish Tensorflow virtual environment
+* TensorFlow environment installed in Ubuntu 16.04.6 LTS
+* Anaconda environment version 4.7.11 installed to establish TensorFlow virtual environment
 * CUDA version: 10.2
-* Tensorflow version: 1.14
+* TensorFlow version: 1.14
 * Python version: 3.5.6
 * Pre-trained models: COCO dataset
-* PygIDE tested within Windows 10
+* TF-GraF tested within Windows 10
 
 # News
-PygIDE 1.0 was initially released on Github in 24th of Apr 2020.
+TF-GraF 1.0 was initially released on Github (07 June, 2020)
 
 # Request
 Please email us if you need more information or free account\
