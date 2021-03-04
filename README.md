@@ -5,7 +5,8 @@ No need to Code! NO need type Command line!\
 All you need to do is download exe file and go!\
 ![picture](https://github.com/boguss1225/ObjectDetectionGUI/blob/master/screenshot/Detect_faster_rccn_inception.png)
 
-# Oneline tutorial
+# Online tutorial
+User guid video is available here in youtube\
 https://www.youtube.com/watch?v=7m9P4uQomew
 
 # Requirement for user
@@ -55,10 +56,6 @@ https://www.youtube.com/watch?v=7m9P4uQomew
 # Manual
 step by step manual is available here\
 https://drive.google.com/file/d/1mZkj5jhdDJcANsP8xcHKdmlPNxeHcmXM/view?usp=sharing
-
-# Guide Video
-User guid video is available here in youtube\
-//(link)
 
 # Requirements and specification for developer
 * Tensorflow environment installed in Ubuntu 16.04.6 LTS
