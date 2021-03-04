@@ -5,7 +5,7 @@ No need to Code! NO need type Command line!\
 All you need to do is download exe file and go!\
 ![picture](https://github.com/boguss1225/ObjectDetectionGUI/blob/master/screenshot/Detect_faster_rccn_inception.png)
 
-# Online tutorial
+# Video Guide
 User guid video is available here in youtube\
 https://www.youtube.com/watch?v=7m9P4uQomew
 
